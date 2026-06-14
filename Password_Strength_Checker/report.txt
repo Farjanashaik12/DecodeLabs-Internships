@@ -1,0 +1,67 @@
+PASSWORD STRENGTH CHECKER
+==================================================
+
+Password: password
+Length: 8
+Uppercase: False
+Lowercase: True
+Numbers: False
+Symbols: False
+Strength: WEAK
+----------------------------------------
+Password: Password123
+Length: 11
+Uppercase: True
+Lowercase: True
+Numbers: True
+Symbols: False
+Strength: MEDIUM
+----------------------------------------
+Password: P@ssword123
+Length: 11
+Uppercase: True
+Lowercase: True
+Numbers: True
+Symbols: True
+Strength: STRONG
+----------------------------------------
+Password: admin
+Length: 5
+Uppercase: False
+Lowercase: True
+Numbers: False
+Symbols: False
+Strength: WEAK
+----------------------------------------
+Password: Welcome@2025
+Length: 12
+Uppercase: True
+Lowercase: True
+Numbers: True
+Symbols: True
+Strength: STRONG
+----------------------------------------
+Password: Farzana#123
+Length: 11
+Uppercase: True
+Lowercase: True
+Numbers: True
+Symbols: True
+Strength: STRONG
+----------------------------------------
+Password: 123456
+Length: 6
+Uppercase: False
+Lowercase: False
+Numbers: True
+Symbols: False
+Strength: WEAK
+----------------------------------------
+Password: DecodeLabs@2026
+Length: 15
+Uppercase: True
+Lowercase: True
+Numbers: True
+Symbols: True
+Strength: STRONG
+----------------------------------------
