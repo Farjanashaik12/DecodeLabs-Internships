@@ -1,0 +1,35 @@
+Email 1
+
+URGENT SECURITY ALERT!
+
+Your account has been suspended.
+
+Click here immediately to verify your account:
+http://secure-account-verification.xyz
+
+Failure to verify within 24 hours will result in permanent suspension.
+
+==================================================
+
+Email 2
+
+Hello User,
+
+You have won a prize worth $5000.
+Click here now to claim your reward:
+http://free-money-win.xyz
+
+Act immediately.
+
+==================================================
+
+Email 3
+
+Dear Customer,
+
+Your bank account requires verification.
+Please update your password immediately.
+
+https://bank-secure-login.xyz
+
+Thank you.

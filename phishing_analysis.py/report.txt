@@ -1,0 +1,63 @@
+PHISHING AWARENESS ANALYSIS
+==================================================
+
+
+EMAIL 1
+------------------------------
+Keywords Found:
+• urgent
+• verify
+• click here
+• security alert
+• immediately
+
+Links Found:
+• http://secure-account-verification.xyz
+
+Red Flags:
+• Suspicious Keywords Found
+• Suspicious Links Detected
+• Creates Sense of Urgency
+
+Why Unsafe?
+This message contains phishing indicators such as suspicious keywords, suspicious links, or urgency tactics. Such messages may attempt to steal personal information.
+
+EMAIL 2
+------------------------------
+Keywords Found:
+• click here
+• immediately
+• reward
+• prize
+• won
+
+Links Found:
+• http://free-money-win.xyz
+
+Red Flags:
+• Suspicious Keywords Found
+• Suspicious Links Detected
+• Creates Sense of Urgency
+
+Why Unsafe?
+This message contains phishing indicators such as suspicious keywords, suspicious links, or urgency tactics. Such messages may attempt to steal personal information.
+
+EMAIL 3
+------------------------------
+Keywords Found:
+• password
+• login
+• bank
+• update
+• immediately
+
+Links Found:
+• https://bank-secure-login.xyz
+
+Red Flags:
+• Suspicious Keywords Found
+• Suspicious Links Detected
+• Creates Sense of Urgency
+
+Why Unsafe?
+This message contains phishing indicators such as suspicious keywords, suspicious links, or urgency tactics. Such messages may attempt to steal personal information.
